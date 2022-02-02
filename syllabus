@@ -1,0 +1,116 @@
+HTML/HTML5  - Hyper text mark up language
+            - html is used to build the static web pages
+            - Current version of html is html 5
+CSS/CSS3   - casecading style sheet
+           - is used to apply the styles to static web pages
+           - color
+           - border
+           - height 
+           - width
+           - etc
+           - current version of css is css3
+JavaScript - Current version of javascript is ES12
+           - javascript is a scripting language
+           - is used to convert the static web page to dynamic web pages
+Day-2:
+======
+HTML
+=====
+Hyper text markup language 
+html released by Tim Berners Lee(one of microsoft employee)
+html used to build static web pages
+html saves with the extension of .html or .htm
+suggestable IDE for html is visual code is also called vscodeit is a open source IDE
+we will execute the html by using browsers like gooleChrome, Opera
+we will build the web pages by using tags
+<html>
+<head>
+<title>
+<body>
+-----
+-----
+above tags provided by vendor
+
+html 1.0 ---1991
+html 5--- 2008
+Html 5.X stable in the market reason is supporting API's like
+->storages
+->web workers
+->Web socket
+->Geolocation
+->Drag & Drop
+
+Day-3:
+======
+Stucture of the webpages
+========================
+
+DOCTYPE
+
+ROOT ELEMENT
+
+        HEAD SECTION / META SECTION
+        BODY SECTION / MAIN SECTION
+
+- DOCTYPE representing the version of html
+- we will represent "HTML5" following DOCTYPE
+  <!DOCTYPE html>
+- <html> </html> tag represent the root section
+- <head> </head> tag represent the header section
+- head section used to represent the "METADATA"
+  Ex:
+  author
+  verssion
+  title
+  -----
+  ----
+  - body section used to represent the main content of the webpage
+  paragraphs
+  tables
+  division
+  images
+
+  Ex:
+  <!DOCTYPE html>
+  <html>
+      <head>
+            //META DATA
+            //<meta> tag used to define the metadata
+      </head>
+      <body>
+            // to define the main contents
+            //images
+            //paragraphs
+            //tables
+            //forms
+      </body>
+  </html>
+  
+  Day-4:
+  ======
+  headings:
+  <h1></h1>     ---- Main heading
+  <h2></h2>     ---- Sub heading
+  <h3></h3>              "
+  <h4></h4>              "
+  <h5></h5>              "
+  <h6></h6>              "
+
+  padding -- inside box itself maintain the gap/freespace
+  border = 30px solid red {Lines}
+         = 30px dotted red {dotted lines}
+  border radius - to change corners in radius
+  width = 30% - to occupy 30%
+  margin = auto - content in middle
+         = 30% auto- 30% to maintain space
+  box-shadow = 0 0 10px red;
+             = x y  z (directions)    
+  text-shadow = 0 0 10px blue;
+              = x y z(directions)
+  padding, border,border radius this all attributes
+  right side is all values   
+
+Paragraphs
+==========
+  <p></p> tag used to define the paragraphs
+  
