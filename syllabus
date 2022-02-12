@@ -113,4 +113,21 @@ ROOT ELEMENT
 Paragraphs
 ==========
   <p></p> tag used to define the paragraphs
-  
+  background : linear-gradient(45deg, red, black)= combination of 2 colours
+  font-family : to change the fonts for text
+  display : inline-block -- side by side
+          : block --none by one
+
+Day-5
+=====
+division tag used to define the sections / divisions in webpages
+padding -- inside gap
+margin -- outside gap
+
+marquee
+=======
+To scroll the content or text
+direction= to scroll which direction
+scrollamount= speed of scrolling
+
+
